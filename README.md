@@ -13,7 +13,7 @@ Login Screen Example (Students Login Screen):
 <img src="https://github.com/user-attachments/assets/323a3d09-2005-47a2-8b00-b44d36ecfbc8" width="400"/>
 </p>
 
-Main Menu for Student login:
+Main Menu for Student login: <br>
 In this screen, there are five different menu. These are; Messages, Upload Transcript, Profile, Course List, Course Selection. 
 <p style="display: inline;">
 <img src="https://github.com/user-attachments/assets/dc30d7e3-4409-4efe-b07e-115f906feace" width="400"/>
@@ -29,7 +29,7 @@ Course Selection Screen:
 <img src="https://github.com/user-attachments/assets/26a22a73-1b86-4234-8d20-797c66cbf080" width="400"/>
 </p>
 
-Student Searching Screen for Teachers:
+Student Searching Screen for Teachers: <br>
 In this screen, you can also filter the students by their school number, course name or grade.
 <p style="display: inline;">
 <img src="https://github.com/user-attachments/assets/7ddcfb08-9935-49cd-9ff2-d66cb726a259" width="400"/>
